@@ -1,6 +1,4 @@
-"""
-This file adapted from Sean Batzel's submission to Homework 2.
-"""
+
 
 import argparse
 import logging
